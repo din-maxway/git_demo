@@ -1,2 +1,3 @@
+first hotfix commit
 second master commit
 first master commit
