@@ -1,5 +1,6 @@
 first features commit
 second dev commit
 first dev commit
+first hotfix commit
 second master commit
 first master commit
